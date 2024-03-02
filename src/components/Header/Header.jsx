@@ -30,7 +30,7 @@ const Header = () => {
     <header className="header">
       <nav className="nav container">
         <a href="index.html" className="nav__logo">
-          Shinobi_meow
+         <i className="uil uil-github-alt"></i> Shinobi_meow
         </a>
         <div
           ref={menuRef}
