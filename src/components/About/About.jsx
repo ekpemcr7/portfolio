@@ -26,6 +26,7 @@ const About = () => {
             download=""
             href="https://drive.google.com/uc?export=download&id=1p3scPAey5ylh_SfJllPyRqdELZBZmUJ7"
             className="button button--flex"
+            target="blank"
           >
             Download CV
             <svg
