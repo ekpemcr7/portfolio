@@ -70,7 +70,7 @@ const Contact = () => {
                 type="text"
                 name="name"
                 className="contact__form-input"
-                placeholder="your name"
+                placeholder="your name" required
               />
             </div>
             <div className="contact__form-div">
@@ -79,7 +79,7 @@ const Contact = () => {
                 type="email"
                 name="email"
                 className="contact__form-input"
-                placeholder="your email"
+                placeholder="your email" required 
               />
             </div>
             <div className="contact__form-div contact__form-area">
@@ -89,7 +89,7 @@ const Contact = () => {
                 cols="30"
                 rows="10"
                 className="contact__form-input"
-                placeholder="write away"
+                placeholder="write away" required 
               ></textarea>
             </div>
             <button className="button button--flex">
