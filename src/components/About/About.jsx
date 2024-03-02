@@ -24,7 +24,7 @@ const About = () => {
           </p>
           <a
             download=""
-            href="https://drive.google.com/file/d/1p3scPAey5ylh_SfJllPyRqdELZBZmUJ7/view?pli=1"
+            href="https://drive.google.com/uc?export=download&id=1p3scPAey5ylh_SfJllPyRqdELZBZmUJ7"
             className="button button--flex"
           >
             Download CV
