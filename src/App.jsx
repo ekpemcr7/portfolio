@@ -6,7 +6,7 @@ import Header from "./components/Header/Header";
 import Home from "./components/Home/Home";
 import Qualifications from "./components/Qualifications/Qualifications";
 import ScrollUp from "./components/ScrollUp/ScrollUp";
-import Skills from "./components/Skills/SKills";
+import Skills from "./components/Skills/Skills";
 import Work from "./components/Work/Work";
 
 const App = () => {
