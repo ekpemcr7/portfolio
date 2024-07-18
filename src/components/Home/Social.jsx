@@ -9,7 +9,7 @@ const Social = () => {
         <i className="uil uil-instagram"></i>
       </a>
       <a
-        href="https://www.linkedin.com/in/eldhose-k-paul-0269ba213"
+        href="https://www.linkedin.com/in/eldhosekpaul/"
         className="home__social-icon"
         target="blank"
       >
