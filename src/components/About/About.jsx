@@ -28,7 +28,7 @@ const About = () => {
             className="button button--flex"
             target="blank"
           >
-            Download CV
+            Download Resume
             <svg
               className="button__icon"
               xmlns="http://www.w3.org/2000/svg"
